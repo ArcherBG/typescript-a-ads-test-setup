@@ -19,6 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div
+          className="o-ads--background o-ads--center o-ads--reserve-90 o-ads--transition"
+          data-o-ads-name="top"
+          aria-hidden="true">
+        </div>
     </div>
   );
 }
